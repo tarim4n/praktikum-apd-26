@@ -71,9 +71,8 @@ if nama == "mentari" and nim == "101":
     print("Biaya weekend         :Rp", weekend)
     print("Total bayar           :Rp", total_bayar) 
 
-
 else:
     print()
     print("Login gagal.")
     print("Nama atau NIM Anda salah")
-    print("Program selesai.")
+    print("Program selesai.") 
