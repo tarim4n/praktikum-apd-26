@@ -291,5 +291,5 @@ while True:
         break
     else: 
         print("\nPilihan tidak tersedia!")
-        input("\nTekan Enter untuk melanjutkan...")
+        input("\nTekan Enter untuk melanjutkan...") 
         
